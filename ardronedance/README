@@ -1,0 +1,12 @@
+Idea
+----
+
+We wanted to make an AR Drone quadcopter dance. This idea hasn't really gone anywhere yet, but it's a fun thing to put out there.  The code is a light hack of the python-ardrone code, which can also be found in github.
+
+License:
+--------
+
+This software is published under the terms of the MIT License:
+
+  http://www.opensource.org/licenses/mit-license.php
+
